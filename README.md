@@ -1,4 +1,4 @@
-# Parcial-1-Computacion-Paralela
+# Parcial 1 Computacion Paralela
 
 Ficheros de cada algoritmo ejecutado para la resolucion del parcial. 
 
